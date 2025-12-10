@@ -1,0 +1,2 @@
+# BuggyPaperTranslator-Fixed
+修复学术论文翻译工具的Bug并重构代码
