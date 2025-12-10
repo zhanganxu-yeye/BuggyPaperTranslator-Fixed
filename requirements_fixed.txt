@@ -1,0 +1,7 @@
+pandas>=2.0.0
+numpy
+requests
+tqdm
+huggingface_hub
+python-dotenv
+tenacity
