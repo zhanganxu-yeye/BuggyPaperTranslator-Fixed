@@ -194,10 +194,6 @@ iccv2025.csv - 输入数据（19篇ICCV2025论文）
 
 result.csv - 翻译结果（14篇成功翻译，5篇因额度问题未完成）
 
-checkpoint.txt - 断点续传检查点（自动生成）
-
-translation_errors.log - 错误日志（自动生成）
-
 注意事项
 
 需要Hugging Face账号和Access Token
